@@ -1,0 +1,14 @@
+venv/
+*.tar.gz
+*.pth
+*.pkl
+*.bin
+*.dylib
+__pycache__/
+*.ipynb_checkpoints/
+nlp/6.14/fil9.txt
+mechineLearning/5.9/手写数字识别.csv
+venv/
+nlp/6.14/fil9.txt
+mechineLearning/5.9/手写数字识别.csv
+venv/
